@@ -31,15 +31,10 @@ a:visited {
 }
 
 #img-div {
-  max-width: 50rem;
   background: white;
-  padding: 3rem;
+  padding: 2rem;
   margin: 0 auto;
-}
-
-img {
-  width: 400px;
-  height: 400px;
+  max-width: 50rem;
 }
 
 #img-caption {
